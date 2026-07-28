@@ -1,0 +1,32 @@
+[submodule "Laboratorios/Arquitectura-del-computador-ODSC"]
+	path = Laboratorios/Arquitectura-del-computador-ODSC
+	url = https://github.com/JuanGuayazanC/Arquitectura-del-computador-ODSC.git
+	branch = main
+[submodule "Laboratorios/Laboratorio-MARIE-Assembler-Language-ODSC"]
+	path = Laboratorios/Laboratorio-MARIE-Assembler-Language-ODSC
+	url = https://github.com/JuanGuayazanC/Laboratorio-MARIE-Assembler-Language-ODSC.git
+	branch = main
+[submodule "Laboratorios/Laboratorio-ARM-Assembler-Language-ODSC"]
+	path = Laboratorios/Laboratorio-ARM-Assembler-Language-ODSC
+	url = https://github.com/JuanGuayazanC/Laboratorio-ARM-Assembler-Language-ODSC.git
+	branch = main
+[submodule "Laboratorios/Instalacion-y-Configuracion-de-Sistemas-Operativos-ODSC"]
+	path = Laboratorios/Instalacion-y-Configuracion-de-Sistemas-Operativos-ODSC
+	url = https://github.com/JuanGuayazanC/Instalacion-y-Configuracion-de-Sistemas-Operativos-ODSC.git
+	branch = main
+[submodule "Proyectos/Division-entera-Complemento-9-ODSC"]
+	path = Proyectos/Division-entera-Complemento-9-ODSC
+	url = https://github.com/JuanGuayazanC/Division-entera-Complemento-9-ODSC.git
+	branch = main
+[submodule "Proyectos/Secuencia-de-Collatz-ODSC"]
+	path = Proyectos/Secuencia-de-Collatz-ODSC
+	url = https://github.com/JuanGuayazanC/Secuencia-de-Collatz-ODSC.git
+	branch = main
+[submodule "Proyectos/Sistemas-Operativos-ODSC"]
+	path = Proyectos/Sistemas-Operativos-ODSC
+	url = https://github.com/JuanGuayazanC/Sistemas-Operativos-ODSC.git
+	branch = main
+[submodule "Proyectos/SSEM-48-ODSC"]
+	path = Proyectos/SSEM-48-ODSC
+	url = https://github.com/JuanGuayazanC/SSEM-48-ODSC.git
+	branch = main
