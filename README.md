@@ -10,8 +10,8 @@ Cada submódulo es un repositorio independiente con su propio historial de commi
 Organizaci-n-de-los-Sistemas-de-C-mputo/
 ├── Laboratorios/
 │   ├── Arquitectura-del-computador-ODSC/
-│   ├── Laboratorio-MARIE-Assembler-Language-ODSC/
-│   └── Laboratorio-ARM-Assembler-Language-ODSC/
+│   ├── MARIE-Assembler-Language-ODSC/
+│   └── ARM-Assembler-Language-ODSC/
 └── Proyectos/
     ├── Division-entera-Complemento-9-ODSC/
     ├── Secuencia-de-Collatz-ODSC/
@@ -31,7 +31,7 @@ El curso recorre la organización interna de un computador, desde la arquitectur
 
 ## Cosas a tener en cuenta
 
-- `Laboratorio-MARIE-Assembler-Language-ODSC` y `Laboratorio-ARM-Assembler-Language-ODSC` provienen del mismo repositorio original (`Conjunto-de-instrucciones-y-arquitectura-ODSC`), separados aquí porque cada uno corresponde a una arquitectura y una entrega distintas. En ambos, los archivos de ejercicio del laboratorio quedaron vacíos en el repositorio original (nunca se subió el código); se conservan así, junto con el simulador/ejemplo real que sí se subió.
+- `MARIE-Assembler-Language-ODSC` y `ARM-Assembler-Language-ODSC` provienen del mismo repositorio original (`Conjunto-de-instrucciones-y-arquitectura-ODSC`), separados aquí porque cada uno corresponde a una arquitectura y una entrega distintas. En ambos, los archivos de ejercicio del laboratorio quedaron vacíos en el repositorio original (nunca se subió el código); se conservan así, junto con el simulador/ejemplo real que sí se subió.
 
 ## Herramientas
 
