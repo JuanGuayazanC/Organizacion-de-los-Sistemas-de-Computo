@@ -10,10 +10,6 @@
 	path = Laboratorios/Laboratorio-ARM-Assembler-Language-ODSC
 	url = https://github.com/JuanGuayazanC/Laboratorio-ARM-Assembler-Language-ODSC.git
 	branch = main
-[submodule "Laboratorios/Instalacion-y-Configuracion-de-Sistemas-Operativos-ODSC"]
-	path = Laboratorios/Instalacion-y-Configuracion-de-Sistemas-Operativos-ODSC
-	url = https://github.com/JuanGuayazanC/Instalacion-y-Configuracion-de-Sistemas-Operativos-ODSC.git
-	branch = main
 [submodule "Proyectos/Division-entera-Complemento-9-ODSC"]
 	path = Proyectos/Division-entera-Complemento-9-ODSC
 	url = https://github.com/JuanGuayazanC/Division-entera-Complemento-9-ODSC.git
