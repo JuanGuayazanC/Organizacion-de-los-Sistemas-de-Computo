@@ -7,7 +7,7 @@ Cada submódulo es un repositorio independiente con su propio historial de commi
 ## Estructura del proyecto
 
 ```
-Organizaci-n-de-los-Sistemas-de-C-mputo/
+Organizacion-de-los-Sistemas-de-Computo/
 ├── Laboratorios/
 │   ├── Arquitectura-del-computador-ODSC/
 │   ├── MARIE-Assembler-Language-ODSC/
@@ -43,7 +43,7 @@ El curso recorre la organización interna de un computador, desde la arquitectur
 ## Cómo clonar
 
 ```bash
-git clone --recurse-submodules https://github.com/JuanGuayazanC/Organizaci-n-de-los-Sistemas-de-C-mputo.git
+git clone --recurse-submodules https://github.com/JuanGuayazanC/Organizacion-de-los-Sistemas-de-Computo.git
 ```
 
 Si ya clonaste el repositorio sin submódulos:
