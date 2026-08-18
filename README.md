@@ -1,8 +1,8 @@
 # Organización de los Sistemas de Cómputo (ODSC)
 
-Repositorio general del curso Organización de los Sistemas de Cómputo (ISIS ODSC-101), que agrupa —mediante submódulos de git— los laboratorios y proyectos del curso.
+Repositorio general del curso Organización de los Sistemas de Cómputo, que agrupa —mediante submódulos de git— los laboratorios y proyectos del curso.
 
-Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para clonar este repositorio junto con todo su contenido, ver [Cómo clonar](#cómo-clonar).
+Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para saber cómo aprovechar este repositorio, ver [Cómo usar este repositorio](#cómo-usar-este-repositorio).
 
 ## Estructura del proyecto
 
@@ -40,7 +40,12 @@ El curso recorre la organización interna de un computador, desde la arquitectur
 - VMware Workstation Pro, VirtualBox
 - HDL (Hardware Description Language) / Nand2Tetris
 
-## Cómo clonar
+## Cómo usar este repositorio
+
+Este repositorio no contiene código directamente: es una colección de repositorios independientes (laboratorios y proyectos), organizados por carpetas. Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
+
+- **Para consultar una actividad puntual**: entra directamente a su carpeta en GitHub (o navega el submódulo) y revisa su propio README.
+- **Para tener todo el contenido en tu máquina**:
 
 ```bash
 git clone --recurse-submodules https://github.com/JuanGuayazanC/Organizacion-de-los-Sistemas-de-Computo.git
