@@ -40,6 +40,10 @@ El curso recorre la organización interna de un computador, desde la arquitectur
 - VMware Workstation Pro, VirtualBox
 - HDL (Hardware Description Language) / Nand2Tetris
 
+## Profesor
+
+Gerardo Ospina Hernández.
+
 ## Cómo usar este repositorio
 
 Este repositorio no contiene código directamente: es una colección de repositorios independientes (laboratorios y proyectos), organizados por carpetas. Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
